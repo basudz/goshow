@@ -1,0 +1,3 @@
+include ':goshow'
+include ':app'
+rootProject.name = "Go Show"
